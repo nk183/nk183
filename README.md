@@ -1,5 +1,5 @@
 <h1 align="center" hidden>Hi! I am Naman Kumar</h1>
-<h3 align="center">Tech Enthuiastic</h3>
+<h3 align="center">Tech Enthusiastic</h3>
 - A full stack developer from India.
 - 🌱 I’m currently learning **Machine learning**
 
