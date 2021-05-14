@@ -5,15 +5,15 @@
 
 - 💬 Ask me about **ReactJS, Java, Spring**
 
-- 📫 Find me on LinkedIn by [**NamanKumar**](https://www.linkedin.com/in/naman-kumar-0898ba1a5)
+- 📫 Find me on LinkedIn [**NamanKumar**](https://www.linkedin.com/in/naman-kumar-0898ba1a5)
 
 - 📫 How to reach me **nk.er13.6@gmail.com**
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/naman-kumar-0898ba1a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vasharma05" height="30" width="40" /></a>
-    <a href="https://leetcode.com/nk183/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vasharma05" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/naman-kumar-0898ba1a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nk183" height="30" width="40" /></a>
+    <a href="https://leetcode.com/nk183/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="nk183" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages I am familiar with</h3>
