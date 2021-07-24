@@ -12,9 +12,9 @@
 
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/naman-kumar-0898ba1a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nk183" height="30" width="40" /></a> -->
+    <a href="https://www.linkedin.com/in/naman-kumar-0898ba1a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nk183" height="30" width="40" /></a> 
     <a href="https://leetcode.com/nk183/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="nk183" height="30" width="40" /></a>
-</p> 
+</p> -->
 
 <h3 align="center">Languages, Libraries and Frameworks I am familiar with</h3>
 <p align="center">
@@ -26,8 +26,6 @@
 <h4 align="center">Frontend Development</h4>
 <p align="center">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
 <h4 align="center">Backend Development</h4>
